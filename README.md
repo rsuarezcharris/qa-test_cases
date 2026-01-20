@@ -1,3 +1,6 @@
+## 📂 Documentación
+- 📄 [Casos de prueba – Flujo de reserva](casosdeprueba.xlsx)
+
 # 🧪 Casos de Prueba Manual – QA Tester Junior
 
 Este repositorio contiene casos de prueba manuales diseñados como parte de mi formación en **Quality Assurance**. 
